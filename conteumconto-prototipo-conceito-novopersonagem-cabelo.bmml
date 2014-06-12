@@ -81,7 +81,7 @@
         <icon>HomeMobileIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="790" y="42" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="790" y="42" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>P%E1gina%20Inicial</text>
       </controlProperties>
@@ -91,7 +91,7 @@
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="683" y="494" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="683" y="494" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ir%20para%20p%E1gina%3A</text>
       </controlProperties>
@@ -164,18 +164,42 @@
             <icon>LeftFillTriangleIcon%7Csmall</icon>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="40" y="14" w="32" h="32" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="103"/>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="83" y="14" w="32" h="32" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="103"/>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="125" y="14" w="32" h="32" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="103"/>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="40" y="56" w="32" h="32" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="103"/>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="83" y="56" w="32" h="32" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="103"/>
-        <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="125" y="56" w="32" h="32" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="103"/>
-        <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="40" y="99" w="32" h="32" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="103"/>
-        <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="83" y="99" w="32" h="32" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="103"/>
-        <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="125" y="99" w="32" h="32" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="103"/>
-        <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="40" y="142" w="32" h="32" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="103"/>
-        <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="83" y="142" w="32" h="32" measuredW="77" measuredH="79" zOrder="13" locked="false" isInGroup="103"/>
-        <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="125" y="142" w="32" h="32" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="103"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="45" y="16" w="50" h="50" measuredW="220" measuredH="220" zOrder="3" locked="false" isInGroup="103">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>./assets/cabelo-1.png</src>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="103" y="16" w="50" h="50" measuredW="130" measuredH="130" zOrder="4" locked="false" isInGroup="103">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>./assets/cabelo-2.png</src>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="45" y="71" w="50" h="50" measuredW="182" measuredH="182" zOrder="5" locked="false" isInGroup="103">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>./assets/cabelo-3.png</src>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="103" y="71" w="50" h="50" measuredW="135" measuredH="135" zOrder="6" locked="false" isInGroup="103">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>./assets/cabelo-4.png</src>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Image" x="45" y="126" w="50" h="50" measuredW="159" measuredH="159" zOrder="7" locked="false" isInGroup="103">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>./assets/cabelo-5.png</src>
+          </controlProperties>
+        </control>
+        <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="103" y="126" w="50" h="50" measuredW="205" measuredH="205" zOrder="8" locked="false" isInGroup="103">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>./assets/cabelo-6.png</src>
+          </controlProperties>
+        </control>
       </groupChildrenDescriptors>
     </control>
     <control controlID="104" controlTypeID="com.balsamiq.mockups::Label" x="357" y="470" w="-1" h="-1" measuredW="23" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
