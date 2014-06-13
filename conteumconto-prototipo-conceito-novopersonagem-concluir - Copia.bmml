@@ -20,7 +20,7 @@
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Canvas" x="820" y="109" w="195" h="332" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Canvas" x="820" y="109" w="195" h="379" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::VRule" x="441" y="124" w="-1" h="349" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::Icon" x="86" y="464" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
@@ -39,10 +39,9 @@
       </controlProperties>
     </control>
     <control controlID="20" controlTypeID="com.balsamiq.mockups::HRule" x="827" y="139" w="180" h="-1" measuredW="100" measuredH="10" zOrder="9" locked="false" isInGroup="-1"/>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="820" y="449" w="194" h="69" measuredW="176" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="836" y="446" w="166" h="27" measuredW="154" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <size>24</size>
-        <text>Finalizar%20Livro</text>
+        <text>Adicionar%20Personagem</text>
       </controlProperties>
     </control>
     <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="122" y="537" w="136" h="105" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1"/>
@@ -97,17 +96,17 @@
         <text>Ir%20para%20p%E1gina%3A</text>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="834" y="154" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="834" y="156" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Posicionar</text>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="938" y="154" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="938" y="156" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Excluir</text>
       </controlProperties>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::Icon" x="852" y="208" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Icon" x="852" y="200" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>FullScreenExitIcon%7Csmall</icon>
       </controlProperties>
@@ -115,6 +114,53 @@
     <control controlID="54" controlTypeID="com.balsamiq.mockups::Icon" x="941" y="200" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>TrashIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Canvas" x="68" y="30" w="960" h="640" measuredW="100" measuredH="70" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Canvas" x="307" y="157" w="536" h="407" measuredW="100" measuredH="70" zOrder="32" locked="false" isInGroup="-1"/>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Image" x="588" y="200" w="233" h="340" measuredW="259" measuredH="453" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/personagem-pronto.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Icon" x="816" y="161" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>XIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="510" y="167" w="-1" h="-1" measuredW="130" measuredH="24" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Novo%20Personagem</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::TabBar" x="333" y="200" w="243" h="340" measuredW="254" measuredH="100" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>3</selectedIndex>
+        <text>Geral%2CCabelo%2CRoupa%2CConcluir</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Paragraph" x="354" y="305" w="200" h="90" measuredW="200" measuredH="80" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seu%20novo%20personagem%20est%E1%20pronto%21%0A%20%0AClique%20em%20concluir%20para%20continuar%20a%20sua%20hist%F3ria.</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="411" y="245" w="-1" h="-1" measuredW="89" measuredH="28" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Parab%E9ns%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::MultilineButton" x="385" y="447" w="139" h="50" measuredW="88" measuredH="66" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Concluir</text>
       </controlProperties>
     </control>
   </controls>
