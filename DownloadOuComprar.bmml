@@ -1,0 +1,109 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1028" measuredH="670" mockupW="960" mockupH="640">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="68" y="30" w="960" h="640" measuredW="100" measuredH="70" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="79" y="42" w="140" h="60" measuredW="77" measuredH="79" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Conte%20Um%20Conto</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Title" x="238" y="51" w="-1" h="-1" measuredW="179" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hist%F3ria%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Icon" x="876" y="40" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="905" y="42" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="3" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Minha%20Conta%20%7C%20Sair</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Icon" x="757" y="40" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="true" isInGroup="-1">
+      <controlProperties>
+        <icon>HomeMobileIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="790" y="42" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="6" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>P%E1gina%20Inicial</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Image" x="79" y="140" w="427" h="285" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Capa%20do%20livro</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Label" x="521" y="156" w="-1" h="-1" measuredW="394" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>24</size>
+        <text>Parab%E9ns%21%20Voc%EA%20terminou%20o%20seu%20livro%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Paragraph" x="521" y="213" w="493" h="123" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Agora%20voc%EA%20pode%20baixar%20o%20seu%20livro%20para%20ler%20onde%20voc%EA%20quiser.%20O%20download%20%E9%20gr%E1tis%20e%20pode%20ser%20feito%20em%20v%E1rios%20formatos%20para%20que%20voc%EA%20possa%20ler%20em%20qualquer%20dispositivo.%0A%20%0AVoc%EA%20tamb%E9m%20pode%20adquirir%20a%20vers%E3o%20impressa%20do%20seu%20livro%20para%20presentear%20algu%E9m.%20O%20livro%20pode%20ser%20entregue%20na%20sua%20casa%20ou%20diretamente%20na%20casa%20da%20pessoa%20que%20voc%EA%20deseja%20presentear.</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="__group__" x="79" y="470" w="935" h="158" measuredW="935" measuredH="158" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="935" h="158" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="128"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="17" y="60" w="-1" h="-1" measuredW="256" measuredH="22" zOrder="1" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>14</size>
+            <text>Quer%20ler%20no%20Kindle%3F%20%5BBaixe%20a%20vers%E3o%20mobi%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="17" y="84" w="-1" h="-1" measuredW="325" measuredH="22" zOrder="2" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>14</size>
+            <text>Quer%20ler%20no%20celular%20ou%20tablet%3F%20%5BBaixe%20a%20vers%E3o%20ePUB%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="17" y="108" w="-1" h="-1" measuredW="242" measuredH="22" zOrder="3" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>14</size>
+            <text>Quer%20ler%20no%20computador%3F%20%5BBaixe%20o%20PDF%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="17" y="23" w="-1" h="-1" measuredW="430" measuredH="27" zOrder="4" locked="false" isInGroup="128">
+          <controlProperties>
+            <text>Baixe%20o%20livro%20para%20ler%20em%20qualquer%20lugar</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::VRule" x="463" y="5" w="-1" h="148" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="128"/>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::SubTitle" x="482" y="23" w="-1" h="-1" measuredW="371" measuredH="27" zOrder="6" locked="false" isInGroup="128">
+          <controlProperties>
+            <text>Presenteie%20algu%E9m%20que%20voc%EA%20ama</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="587" y="65" w="-1" h="-1" measuredW="89" measuredH="28" zOrder="7" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>20</size>
+            <text>R%24%2040%2C00</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="482" y="104" w="-1" h="-1" measuredW="142" measuredH="27" zOrder="8" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>14</size>
+            <text>Continue%20a%20compra</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="482" y="69" w="-1" h="-1" measuredW="99" measuredH="22" zOrder="9" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>14</size>
+            <text>Seu%20livro%20custa%3A</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
