@@ -13,7 +13,7 @@
     <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="79" y="109" w="733" h="379" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::TabBar" x="79" y="496" w="935" h="161" measuredW="294" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <selectedIndex>3</selectedIndex>
+        <selectedIndex>2</selectedIndex>
         <tabVPosition>top</tabVPosition>
         <text>Fundo%2CPersonagens%2CTextos%2CObjetos</text>
         <value>0</value>
@@ -56,7 +56,7 @@
     <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="548" y="537" w="136" h="105" measuredW="136" measuredH="105" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
-        <src>./assets/Sem-T%25c3%25adtulo-1.jpg</src>
+        <src>./assets/Sem-T%25C3%25ADtulo-1.jpg</src>
       </controlProperties>
     </control>
     <control controlID="33" controlTypeID="com.balsamiq.mockups::Image" x="691" y="537" w="136" h="105" measuredW="136" measuredH="105" zOrder="14" locked="false" isInGroup="-1">
@@ -96,7 +96,7 @@
         <icon>HomeMobileIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="790" y="42" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="790" y="42" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>P%E1gina%20Inicial</text>
       </controlProperties>
@@ -106,7 +106,7 @@
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="683" y="494" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="683" y="494" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ir%20para%20p%E1gina%3A</text>
       </controlProperties>
@@ -202,36 +202,22 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::Canvas" x="79" y="109" w="733" h="379" measuredW="100" measuredH="70" zOrder="31" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>0.5</backgroundAlpha>
-        <color>0</color>
-      </controlProperties>
-    </control>
-    <control controlID="70" controlTypeID="com.balsamiq.mockups::Image" x="835" y="537" w="136" h="105" measuredW="136" measuredH="105" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Image" x="835" y="537" w="136" h="105" measuredW="136" measuredH="105" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <src>./assets/branco.jpg</src>
       </controlProperties>
     </control>
-    <control controlID="71" controlTypeID="com.balsamiq.mockups::RoundButton" x="703" y="551" w="113" h="78" measuredW="32" measuredH="32" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::RoundButton" x="703" y="551" w="113" h="78" measuredW="32" measuredH="32" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <shape>roundRect</shape>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::RoundButton" x="846" y="551" w="114" h="78" measuredW="32" measuredH="32" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::RoundButton" x="846" y="551" w="114" h="78" measuredW="32" measuredH="32" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <shape>dottedRect</shape>
         <text/>
-      </controlProperties>
-    </control>
-    <control controlID="73" controlTypeID="com.balsamiq.mockups::RoundButton" x="107" y="139" w="319" h="146" measuredW="32" measuredH="32" zOrder="35" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>center</align>
-        <shape>roundRect</shape>
-        <size>18</size>
-        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Donec%20vitae%20volutpat%20augue.%20Morbi%20turpis%20ligula%2C%20convallis%20ultricies%20massa%20non.</text>
       </controlProperties>
     </control>
   </controls>
